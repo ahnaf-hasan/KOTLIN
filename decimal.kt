@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-    val num: Long = 1010110111
+    val num: Long = 101011011
     val decimal = convertBinaryToDecimal(num)
     println("$num in binary = $decimal in decimal")
 }
