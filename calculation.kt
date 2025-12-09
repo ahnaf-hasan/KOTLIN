@@ -5,6 +5,8 @@ fun main(args: Array<String>) {
     System.out.format("Standard Deviation = %.6f", SD)
 }
 
+//function
+
 fun calculateSD(numArray: DoubleArray): Double {
     var sum = 0.0
     var standardDeviation = 0.0
